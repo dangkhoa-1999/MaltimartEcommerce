@@ -57,3 +57,9 @@
 .store__btn a:hover {
   color: var(--primary-color);
 }
+
+@media only screen and (max-width: 768px) {
+  .hero__content h2 {
+    font-style: 2rem;
+  }
+}
